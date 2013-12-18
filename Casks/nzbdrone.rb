@@ -3,5 +3,5 @@ class Nzbdrone < Cask
   homepage 'http://www.nzbdrone.com'
   version '2.0.0'
   no_checksum
-  link 'NzbDrone.exe'
+  link 'NzbDrone/NzbDrone.exe'
 end
